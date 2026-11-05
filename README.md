@@ -60,7 +60,7 @@ IT 및 개발이라는 공통된 목표 아래 다양한 전공과 연고지의 
         </thead>
         <tbody>
           <tr>
-            <td width="95";><strong>실현</strong></td>
+            <td width="95"><strong>실현</strong></td>
             <td>
               • <strong>전기 자동차</strong>: 테슬라 등 여러 자동차 브랜드에서 전기 자동차 상용화함.<br>
               • <strong>스마트 부엌</strong>: IoT 기술로 냉장고, 인덕션 등의 가전을 연결하여 원격 사용 등이 가능.<br>
