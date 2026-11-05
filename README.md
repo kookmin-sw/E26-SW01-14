@@ -51,6 +51,7 @@ IT 및 개발이라는 공통된 목표 아래 다양한 전공과 연고지의 
 - 프로젝트 진행 ✔️  
   - 과거에 사람들이 상상한 미래
     - 과거 사례 4분류 및 근거 작성
+      
       <table>
         <thead>
           <tr>
@@ -130,6 +131,7 @@ IT 및 개발이라는 공통된 목표 아래 다양한 전공과 연고지의 
     
   - 우리가 상상한 미래
     - 미래 서비스 캔버스
+      
       <table>
         <tr>
           <th width="95">항목</th>
@@ -173,6 +175,7 @@ IT 및 개발이라는 공통된 목표 아래 다양한 전공과 연고지의 
         </tr>
       </table>
       <br>
+      
     - 미래 장면 시각화 자료<br>
       <img src="미래장면 시각화 자료.png" width="500"/>
       <br><br>
@@ -183,6 +186,7 @@ IT 및 개발이라는 공통된 목표 아래 다양한 전공과 연고지의 
        • <a href="https://youtu.be/jEWGsLAZRb0?si=39MRGUMVMiDksKx4" target="_blank" rel="noopener noreferrer">KBS News 유튜브 「생각만으로 체스를... 뇌에 ‘뉴럴링크 칩’ 이식 환자 첫 공개</a><br> 
       <br>
     - 역할 분담 메모
+    - 
       <table>
         <tr>
           <th>조원</th>
