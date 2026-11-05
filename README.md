@@ -127,7 +127,7 @@
   - 그들이 만들어가는 세상
     - 대학 생활 중 느낀 불편을 AI와 함께 다시 쓰기 <br>
     
-      <img src="https://pixnio.com/free-images/2017/08/14/2017-08-14-13-09-09-960x651.jpg?text=활동사진1" width="330" height="190"/>
+      <img src="ideas.png" width="500"/>
       
       > 최종 선택 아이디어 : 학식 메뉴별 실시간 재고 안내 <br>
       > 선정 이유 <br>: 대학생들이 일상에서 겪는 불편함을 가장 즉각적이고 실용적으로 해결할 수 있으며, 교내 POS 시스템 연동이라는 현실적인 실현 가능성을 가지고 있기 때문.
@@ -179,7 +179,7 @@
       </table>
       <br>
     - 미래 장면 시각화 자료<br>
-      <img src="https://pixnio.com/free-images/2017/08/14/2017-08-14-13-09-09-960x651.jpg?text=활동사진1" width="330" height="190"/>
+      <img src="미래장면 시각화 자료.png" width="500"/>
       <br><br>
     - 벤치마킹 출처<br>
        • <a href="https://www.mk.co.kr/news/world/12179526" target="_blank" rel="noopener noreferrer">매일경제 플러스 「머스크도 웃지 못한 뉴럴링크 상용화, 중국은 어떻게 뚫어냈나</a><br>
