@@ -183,7 +183,7 @@ IT 및 개발이라는 공통된 목표 아래 다양한 전공과 연고지의 
        • <a href="https://youtu.be/jEWGsLAZRb0?si=39MRGUMVMiDksKx4" target="_blank" rel="noopener noreferrer">KBS News 유튜브 「생각만으로 체스를... 뇌에 ‘뉴럴링크 칩’ 이식 환자 첫 공개</a><br> 
       <br>
     - 역할 분담 메모
-    - 
+      
       <table>
         <tr>
           <th>조원</th>
